@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 ### 🔥 &nbsp; My Stats :
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parisienkid&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parisienkid&layout=compact&langs_count=10&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
