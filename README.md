@@ -5,8 +5,7 @@ About me
 - 👾 I am a frontend developer.
 - 💻 Technologies: 
   - javascript, typescript
-  - react, redux
-  - algorithms
+  - react, redux, mobx
   - css, sass/scss, styled-components
 - 💜 I am also interested in fashion, animation, design, computer games, traveling and listening to music!
 - #### [White me!](https://t.me/parisienkid)
